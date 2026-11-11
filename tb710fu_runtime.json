@@ -1,6 +1,6 @@
 {
   "version": "v4.2",
-  "versionCode": 43,
+  "versionCode": 42,
   "zipUrl": "https://raw.githubusercontent.com/YungLi296/modules/main/tb710fu_runtime_v4.2.zip",
   "changelog": "v4.2：解除小米域名拦截（hosts 全量解封）。"
 }
