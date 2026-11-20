@@ -1,6 +1,6 @@
 {
   "version": "v4.5",
-  "versionCode": 44,
+  "versionCode": 45,
   "zipUrl": "https://raw.githubusercontent.com/YungLi296/modules/main/tb710fu_runtime_v4.5.zip",
-  "changelog": "修复护眼模式"
+  "changelog": "并入护眼色彩矩阵修复：护眼强度与纸质色彩（全彩/淡彩/黑白）走 SurfaceFlinger display 级 1015 矩阵，关闭回严格单位阵；参数在 /data/adb/tb710fu_rt/eye_care.conf。同时修复 customize.sh 被 CRLF 破坏导致的安装失败。"
 }
